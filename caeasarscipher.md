@@ -1,4 +1,4 @@
-Explain briefly what the snippet does.
+Caesars Cipher
 
 - Explain briefly how the snippet works.
 - Use bullet points for your snippet's explanation.
@@ -10,5 +10,5 @@ const functionName = arguments =>
 ```
 
 ```js
-functionName('sampleInput'); // 'sampleOutput'
+rot13("SERR PBQR PNZC"); // 'sampleOutput'
 ```
