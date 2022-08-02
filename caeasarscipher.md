@@ -10,5 +10,5 @@ const functionName = arguments =>
 ```
 
 ```js
-rot13("SERR PBQR PNZC"); // 'sampleOutput'
+rot13("SERR PBQR PNZC"); // 'sampleOutput's
 ```
